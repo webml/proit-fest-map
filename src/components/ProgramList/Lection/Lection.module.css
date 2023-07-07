@@ -1,0 +1,37 @@
+.time {
+  min-width: 100px;
+  margin-right: 16px;
+}
+
+.location {
+  padding-top: 4px;
+  font-size: small;
+  line-height: 100%;
+  font-weight: 600;
+}
+
+.desc {
+  line-height: 100%;
+}
+
+.title {
+  padding-top: 4px;
+  padding-bottom: 4px;
+  line-height: 100%;
+  font-weight: 600;
+}
+
+.author {
+  padding-bottom: 4px;
+}
+
+.position {
+  margin-top: -4px;
+  line-height: normal;
+  color: #a0a0a0;
+}
+
+.container {
+  display: flex;
+  padding-bottom: 16px;
+}
