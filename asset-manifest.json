@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/proit-fest-map/static/css/main.1fdf91ca.css",
+    "main.css": "/proit-fest-map/static/css/main.d6034f7b.css",
     "main.js": "/proit-fest-map/static/js/main.9f264987.js",
     "index.html": "/proit-fest-map/index.html",
-    "main.1fdf91ca.css.map": "/proit-fest-map/static/css/main.1fdf91ca.css.map",
+    "main.d6034f7b.css.map": "/proit-fest-map/static/css/main.d6034f7b.css.map",
     "main.9f264987.js.map": "/proit-fest-map/static/js/main.9f264987.js.map"
   },
   "entrypoints": [
-    "static/css/main.1fdf91ca.css",
+    "static/css/main.d6034f7b.css",
     "static/js/main.9f264987.js"
   ]
 }
